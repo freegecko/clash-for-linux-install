@@ -31,7 +31,7 @@ git clone --branch master --depth 1 https://gh-proxy.com/https://github.com/nelv
 
 - 上述克隆命令使用了[加速前缀](https://gh-proxy.com/)，如失效请更换其他[可用链接](https://ghproxy.link/)。
 - 默认通过远程订阅获取配置进行安装，本地配置安装详见：[#39](https://github.com/nelvko/clash-for-linux-install/issues/39)
-- 没有订阅？[click me](https://次元.net/auth/register?code=oUbI)
+- 没有订阅？[click me](https://www.geckosoho.com/index.php/#/register?code=ua6ot4EE)
 
 ### 命令一览
 
