@@ -105,7 +105,7 @@ $ clashsecret
 ### 更新订阅
 
 ```bash
-$ clashupdate https://example.com
+$ clashupdate http://freegecko.com/api/v1/client/subscribe?token=af1a2f4ab
 👌 正在下载：原配置已备份...
 🍃 下载成功：内核验证配置...
 🍃 订阅更新成功
@@ -114,7 +114,7 @@ $ clashupdate auto [url]
 😼 已设置定时更新订阅
 
 $ clashupdate log
-✅ [2025-02-23 22:45:23] 订阅更新成功：https://example.com
+✅ [2025-02-23 22:45:23] 订阅更新成功：http://freegecko.com/api/v1/client/subscribe?token=af1a2f4ab
 ```
 
 - `clashupdate` 会记住上次更新成功的订阅链接，后续执行无需再指定。
