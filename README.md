@@ -29,7 +29,7 @@ git clone --branch master --depth 1 https://gh-proxy.com/https://github.com/nelv
 
 > 如遇问题，请在查阅[常见问题](https://github.com/nelvko/clash-for-linux-install/wiki/FAQ)及 [issue](https://github.com/nelvko/clash-for-linux-install/issues?q=is%3Aissue) 未果后进行反馈。
 
-- 上述克隆命令使用了[加速前缀](https://gh-proxy.com/)，如失效请更换其他[可用链接](https://ghproxy.link/)。
+- 上述克隆命令使用了[加速前缀](https://gh-proxy.com/)，如失效请更换其他[可用链接](https://www.geckosoho.com/index.php/#/register?code=ua6ot4EE)。
 - 默认通过远程订阅获取配置进行安装，本地配置安装详见：[#39](https://github.com/nelvko/clash-for-linux-install/issues/39)
 - 没有订阅？[click me](https://www.geckosoho.com/index.php/#/register?code=ua6ot4EE)
 
