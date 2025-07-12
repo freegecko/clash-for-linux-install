@@ -1,4 +1,4 @@
-##  Linux翻墙教程
+#  Linux翻墙教程
 # 一键安装 Clash
 
 ![GitHub License](https://img.shields.io/github/license/nelvko/clash-for-linux-install)
