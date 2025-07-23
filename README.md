@@ -125,10 +125,10 @@ $ clashupdate log
 ### `Tun` 模式
 
 ```bash
-$ clashtun
+$ clash tun
 😾 Tun 状态：关闭
 
-$ clashtun on
+$ clash tun on
 😼 Tun 模式已开启
 ```
 
