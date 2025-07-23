@@ -162,7 +162,11 @@ sudo bash uninstall.sh
 ## 常见问题
 
 [wiki](https://github.com/nelvko/clash-for-linux-install/wiki/FAQ)
-
+其余系统可使用自由壁虎自研客户端软件，一键安装，无需导入订阅，下载安装即可使用
+FreeGecko 客户端下载地址
+Windows 电脑版 https://www.123pan.com/s/0JEuVv-GStjH.html
+Mac OS苹果电脑版 https://www.123pan.com/s/0JEuVv-U9ejH.html
+Android 安卓手机版 https://www.123pan.com/s/0JEuVv-u9ejH.html
 ## 引用
 
 - [Clash 知识库](https://clash.wiki/)
