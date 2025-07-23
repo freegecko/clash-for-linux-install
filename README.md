@@ -167,15 +167,7 @@ sudo bash uninstall.sh
 - Windows 电脑版 https://www.123pan.com/s/0JEuVv-GStjH.html
 - Mac OS苹果电脑版 https://www.123pan.com/s/0JEuVv-U9ejH.html
 - Android 安卓手机版 https://www.123pan.com/s/0JEuVv-u9ejH.html
-## 引用
 
-- [Clash 知识库](https://clash.wiki/)
-- [Clash 家族下载](https://www.clash.la/releases/)
-- [Clash Premium 2023.08.17](https://downloads.clash.wiki/ClashPremium/)
-- [mihomo v1.19.2](https://github.com/MetaCubeX/mihomo)
-- [subconverter v0.9.0：本地订阅转换](https://github.com/tindy2013/subconverter)
-- [yacd v0.3.8：Web 控制台](https://github.com/haishanh/yacd)
-- [yq v4.45.1：处理 yaml](https://github.com/mikefarah/yq)
 
 ## Star History
 
