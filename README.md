@@ -41,22 +41,23 @@ git clone --branch master --depth 1 https://gh-proxy.org/https://github.com/nelv
 > 兼容多种命令风格
 
 ```bash
-$ clash
-Usage:
-    clash     COMMAND [OPTION]
-    mihomo    COMMAND [OPTION]
-    clashctl  COMMAND [OPTION]
-    mihomoctl COMMAND [OPTION]
+Usage: 
+  clashctl COMMAND [OPTIONS]
 
 Commands:
-    on                   开启代理
-    off                  关闭代理
-    ui                   面板地址
-    status               内核状况
-    tun      [on|off]    Tun 模式
-    mixin    [-e|-r]     Mixin 配置
-    secret   [SECRET]    Web 密钥
-    update   [auto|log]  更新订阅
+    on                    开启代理
+    off                   关闭代理
+    status                内核状况
+    proxy                 系统代理
+    ui                    Web 面板
+    secret                Web 密钥
+    sub                   订阅管理
+    upgrade               升级内核
+    tun                   Tun 模式
+    mixin                 Mixin 配置
+
+Global Options:
+    -h, --help            显示帮助信息
 ```
 
 ### 优雅启停
@@ -65,7 +66,7 @@ Commands:
 $ clashoff
 😼 已关闭代理环境
 
-$ clashon
+$ clashctl on
 😼 已开启代理环境
 ```
 
